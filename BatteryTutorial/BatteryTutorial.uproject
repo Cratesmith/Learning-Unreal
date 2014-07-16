@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "0.0",
+	"EngineVersion": "4.2.1-0+UE4",
+	"PackageFileUE4Version": 363,
+	"PackageFileLicenseeUE4Version": 0,
+	"EngineAssociation": "{2195AA3B-4158-ED87-0CB7-D9BEA8E09AFF}",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"Modules": [
+		{
+			"Name": "BatteryTutorial",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EpicSampleNameHash": "0"
+}
